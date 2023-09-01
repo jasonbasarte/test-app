@@ -19,7 +19,7 @@ type Story = StoryObj<typeof Main>;
 
 export const MainWithReactComponent = {
   args: {
-    children: <div>Children node</div>,
+    children: <div>Children nodess 123</div>,
   },
 } satisfies Story;
 
