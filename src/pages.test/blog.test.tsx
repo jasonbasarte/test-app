@@ -6,7 +6,7 @@ import Blog from '@/pages/blog';
 // The mock has been moved to `__mocks__` folder to avoid duplication
 
 describe('Blog page', () => {
-  describe('Render method', () => {
+  describe('Render method test', () => {
     it('should display the last 10 posts', () => {
       render(<Blog />);
 
